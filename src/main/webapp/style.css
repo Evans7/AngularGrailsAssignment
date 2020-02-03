@@ -1,0 +1,22 @@
+ .redDiv {
+            width: 100px;
+            height: 100px;
+            background-color: red;
+            padding:2px 2px 2px 2px;
+        }
+
+        .yellowDiv {
+            width: 100px;
+            height: 100px;
+            background-color: yellow;
+            padding:2px 2px 2px 2px;
+        }
+.md-card-image {
+    width: 250px;
+    opacity: 0.9;
+}
+th, td {
+    
+  padding: 30px;
+  text-align: left;
+}
